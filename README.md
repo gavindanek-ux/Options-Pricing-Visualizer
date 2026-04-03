@@ -1,5 +1,7 @@
 # Black-Scholes Options Pricing Visualizer
 
+**Live demo:** https://gdoptionspricingvisualizer.streamlit.app/
+
 Interactive dashboard for pricing European options and visualizing Greeks using the Black-Scholes-Merton model.
 
 ## Features
